@@ -1,2 +1,2 @@
 # siteBackup
-It does wat it's called; ik backups your (web)site
+It does wat it's called; it backups your (web)site
